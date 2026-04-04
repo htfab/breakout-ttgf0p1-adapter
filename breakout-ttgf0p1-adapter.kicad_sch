@@ -30099,7 +30099,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "888aa490-3c05-4b5e-9d21-59ce09916230")
 		(property "Reference" "J4"
 			(at 198.12 142.24 0)
@@ -30117,7 +30117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
+		(property "Footprint" "JLC2Kicad:HDR-SMD_16P-P2.54-V-F-R2-C8-LS7.2_H5.0"
 			(at 196.85 156.21 0)
 			(effects
 				(font
@@ -32443,7 +32443,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b4b7e901-bc9f-4adc-9f15-63ff1c718253")
 		(property "Reference" "J8"
 			(at 198.12 208.28 0)
@@ -32461,7 +32461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
+		(property "Footprint" "JLC2Kicad:HDR-SMD_16P-P2.54-V-F-R2-C8-LS7.2_H5.0"
 			(at 196.85 222.25 0)
 			(effects
 				(font
@@ -34631,7 +34631,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d0dd92a6-c86d-4a43-882a-a528912a3127")
 		(property "Reference" "J6"
 			(at 198.12 175.26 0)
@@ -34649,7 +34649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
+		(property "Footprint" "JLC2Kicad:HDR-SMD_16P-P2.54-V-F-R2-C8-LS7.2_H5.0"
 			(at 196.85 189.23 0)
 			(effects
 				(font
@@ -35342,7 +35342,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db206df9-4b7b-4cf7-b9d8-acc189e50ae4")
 		(property "Reference" "J2"
@@ -35361,7 +35361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
+		(property "Footprint" "JLC2Kicad:HDR-SMD_16P-P2.54-V-F-R2-C8-LS7.2_H5.0"
 			(at 196.85 123.19 0)
 			(effects
 				(font
