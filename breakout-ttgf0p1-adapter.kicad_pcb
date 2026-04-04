@@ -954,7 +954,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -966,7 +966,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -991,7 +991,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/b4b7e901-bc9f-4adc-9f15-63ff1c718253")
+		(sheetname "/")
+		(sheetfile "breakout-ttgf0p1-adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -10.409982 2.539954)
@@ -2432,7 +2435,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2444,7 +2447,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2469,7 +2472,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/db206df9-4b7b-4cf7-b9d8-acc189e50ae4")
+		(sheetname "/")
+		(sheetfile "breakout-ttgf0p1-adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -10.410008 -2.540056)
@@ -3596,7 +3602,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "553322b2-1e72-404f-aa49-c1bba85cda3a")
@@ -3670,7 +3676,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4143065"
+		(property "LCSC" "C17477"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4737,7 +4743,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5575,7 +5581,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5800,7 +5806,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6219,7 +6225,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6320,7 +6326,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C95177"
+		(property "LCSC" " C21189"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9320,7 +9326,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1kΩ"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "4c901daf-37cf-4be7-ab89-f8d99610a8a5")
@@ -10991,7 +10997,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "d3320e0a-6c00-42b5-9294-e2995e23f4c6")
@@ -11788,7 +11794,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "3c3f4c11-cd0b-4c7d-8215-5ba347239f42")
@@ -11862,7 +11868,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4143065"
+		(property "LCSC" "C17477"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12228,7 +12234,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12240,7 +12246,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12265,7 +12271,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/888aa490-3c05-4b5e-9d21-59ce09916230")
+		(sheetname "/")
+		(sheetfile "breakout-ttgf0p1-adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 10.410008 -2.540056)
@@ -13094,7 +13103,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13318,7 +13327,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13419,7 +13428,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" " C21189"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13896,7 +13905,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14641,7 +14650,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1kΩ"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "e2229b67-ec86-4cca-adba-6ce825037fa8")
@@ -14954,7 +14963,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18147,7 +18156,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18248,7 +18257,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C95177"
+		(property "LCSC" " C21189"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18568,7 +18577,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18669,7 +18678,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C95177"
+		(property "LCSC" " C21189"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19140,7 +19149,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19152,7 +19161,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19177,7 +19186,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/d0dd92a6-c86d-4a43-882a-a528912a3127")
+		(sheetname "/")
+		(sheetfile "breakout-ttgf0p1-adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 10.410008 2.539954)
@@ -20193,7 +20205,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(hide yes)
